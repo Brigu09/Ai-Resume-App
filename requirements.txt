@@ -1,0 +1,8 @@
+torch
+transformers
+streamlit
+pymupdf
+numpy
+matplotlib
+seaborn
+firebase-admin

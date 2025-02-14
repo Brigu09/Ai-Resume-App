@@ -4,7 +4,7 @@
 Analyze Resume Content and Predict Personality Traits Using AI
 
 
-🌟 Project Overview
+## 🌟 Project Overview
 
 This is a Streamlit-based AI web application that allows users to:
 🔹 Upload PDF resumes
@@ -16,7 +16,7 @@ This is a Streamlit-based AI web application that allows users to:
 🎯 Goal: To gain insights into a candidate's personality based on their resume text and provide meaningful analysis.
 
 
-🚀 Features
+## 🚀 Features
 
 ✅ Upload Resume (PDF) – Users can upload resumes in PDF format
 ✅ Extract Resume Content – Uses PyMuPDF (fitz) to extract text
@@ -25,7 +25,7 @@ This is a Streamlit-based AI web application that allows users to:
 ✅ Visualize Traits – Generates a bar chart of personality scores
 
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 🐍 Python – Backend logic & AI analysis
 🌐 Streamlit – Web UI framework
@@ -37,7 +37,7 @@ This is a Streamlit-based AI web application that allows users to:
 📈 Seaborn – Statistical data visualization
 
 
-📌 Use Cases
+## 📌 Use Cases
 
 1️⃣ HR & Recruiters – Analyze candidate personalities based on resumes
 2️⃣ Job Seekers – Get insights into their personality based on their resume content
@@ -45,7 +45,7 @@ This is a Streamlit-based AI web application that allows users to:
 4️⃣ AI Researchers – Explore NLP-based resume processing for personality prediction
 
 
-📢 Conclusion
+## 📢 Conclusion
 
 This project automates resume processing by:
 ✅ Extracting text from PDF resumes
@@ -54,6 +54,8 @@ This project automates resume processing by:
 ✅ Visualizing results using Streamlit
 
 ## 🎥 App Demo 
+
+📽️ [Click here to watch the demo](https://github.com/user-attachments/assets/66df331b-fa7b-455a-80e7-5616a380f128)
 
 
 

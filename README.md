@@ -27,14 +27,14 @@ This is a Streamlit-based AI web application that allows users to:
 
 🛠 Technologies Used
 
-Python	
-Streamlit	
-Hugging Face Transformers(NLP)
-Firebase Firestore	
-Firebase Admin SDK	
-PyMuPDF (fitz)	
-Matplotlib	
-Seaborn
+🐍 Python – Backend logic & AI analysis
+🌐 Streamlit – Web UI framework
+🤗 Hugging Face Transformers (NLP) – Pre-trained model for personality prediction
+🔥 Firebase Firestore – Cloud database for storing resumes
+🔑 Firebase Admin SDK – Authentication & Firestore integration
+📄 PyMuPDF (fitz) – Extract text from PDF resumes
+📊 Matplotlib – Data visualization
+📈 Seaborn – Statistical data visualization
 
 
 📌 Use Cases
@@ -52,5 +52,8 @@ This project automates resume processing by:
 ✅ Storing resume data securely in Firebase Firestore
 ✅ Analyzing Big Five Personality Traits
 ✅ Visualizing results using Streamlit
+
+## 🎥 App Demo 
+
 
 

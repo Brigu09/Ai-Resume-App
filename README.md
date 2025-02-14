@@ -6,7 +6,7 @@ Analyze Resume Content and Predict Personality Traits Using AI
 
 ## 🌟 Project Overview
 
-# This is a Streamlit-based AI web application that allows users to:
+ ### This is a Streamlit-based AI web application that allows users to:
 🔹 Upload PDF resumes
 🔹 Extract and analyze resume content
 🔹 Store resumes securely in Firebase Firestore
